@@ -1,0 +1,5 @@
+100.00
+Car Lada 25.00 0.34 4
+Car BMW 30.00 0.28 2
+Truck GAZ 14.50 0.10 50
+Motorcycle Yamaha 35.15 0.32 false
